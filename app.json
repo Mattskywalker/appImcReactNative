@@ -1,0 +1,12 @@
+{
+  "name": "meuReact",
+  "displayName": "meuReact",
+  "expo": {
+    "name": "meuReact",
+    "slug": "meuReact",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
